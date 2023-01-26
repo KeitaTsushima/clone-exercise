@@ -1,0 +1,6 @@
+FAVORITE FOOD!
+ - Gaorin
+ - chicken
+ - fish
+ - lamb
+ 
